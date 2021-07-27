@@ -1,6 +1,6 @@
 ## OS++ is a graphically designed Operating System Model Build using C++ and C Graphics library.
 
-### Features available
+## Features available
 * *Login screen with password verification*
 
 &emsp;&emsp;<img width="350" src="https://github.com/ankitkumar892001/OS-plus-plus/blob/main/img/1.png">&emsp;&emsp;
