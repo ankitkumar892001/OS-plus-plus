@@ -1,4 +1,3 @@
-# OS-CG (OS model with C Graphics)
 OS-CG is an graphically designed operating system model 
 Built entirely using C GAPHICS and C++ simple operations ONLY
 
