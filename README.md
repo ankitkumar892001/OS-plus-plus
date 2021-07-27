@@ -1,5 +1,4 @@
-OS-CG is an graphically designed operating system model 
-Built entirely using C GAPHICS and C++ simple operations ONLY
+OS++ is a graphically designed Operating System Model build using C++ and C Graphics library.
 
 ## Features available
 1. **Login screen with password verification**
