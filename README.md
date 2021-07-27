@@ -29,7 +29,7 @@ Built entirely using C GAPHICS and C++ simple operations ONLY
 <img height="150" src="https://github.com/ankitkumar892001/OS-plus-plus/blob/main/img/7.png">&emsp;
 <img height="150" src="https://github.com/ankitkumar892001/OS-plus-plus/blob/main/img/8.png"><br><br>
 
-5. **A TIC TAC TOE Game**
+5. **A Tic Tac Toe Game**
 
 &emsp;&emsp;<img width="350" src="https://github.com/ankitkumar892001/OS-plus-plus/blob/main/img/9.png">
 
